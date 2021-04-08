@@ -12,7 +12,7 @@ pkg install nodejs
 
 pkg install npm
 
-git clone https://github.com/shanduy/ShanBot
+git clone https://github.com/Valky23/ValkyBot
 
 cd ValkyBot
 
