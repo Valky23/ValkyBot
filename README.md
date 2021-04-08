@@ -1,4 +1,4 @@
-# ShanBot
+# ValkyBot
 Pasos para instalar el bot via termux
 https://youtu.be/rfxuYsWGmQo
 
