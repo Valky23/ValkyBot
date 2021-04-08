@@ -14,7 +14,7 @@ pkg install npm
 
 git clone https://github.com/shanduy/ShanBot
 
-cd ShanBot
+cd ValkyBot
 
 bash install.sh
 
